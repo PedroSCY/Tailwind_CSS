@@ -7,6 +7,11 @@ Aqui compartilho meu aprendizado, explorando os conceitos fundamentais, boas pr�
 
 Este repositório serve como um registro da minha jornada estudando e aplicando **Tailwind CSS**, documentando conhecimentos adquiridos e desafios enfrentados. Além disso, é um espaço para que recrutadores e colaboradores possam ver meu envolvimento com essa tecnologia.
 
+## 🌎 Demonstração
+
+Você pode visualizar o projeto em funcionamento acessando:  
+🔗 **[scytailwindcss.vercel.app](https://scytailwindcss.vercel.app/)**  
+
 ## 📂 O que você encontrará aqui?
 
 ✔️ Conceitos fundamentais do Tailwind CSS  
