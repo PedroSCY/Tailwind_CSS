@@ -6,7 +6,7 @@ import React from "react";
 
 export default function Padding() {
   return (
-    <div className="flex-center gap-5 h-screen">
+    <div className="flex-center gap-5 h-full">
       <Caixa className="px-3">#1</Caixa>
       <Caixa className="py-3">#2</Caixa>
       <Caixa className="pr-4 pb-4">#3</Caixa>

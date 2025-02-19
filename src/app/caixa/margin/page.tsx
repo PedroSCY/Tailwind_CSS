@@ -7,7 +7,7 @@ import React from "react";
 
 export default function Margin() {
   return (
-    <div className="flex-center h-screen">
+    <div className="flex-center h-full">
       <Caixa className="mx-3">#1</Caixa>
       <Caixa className="my-5">#2</Caixa>
       <Caixa className="mr-6 mb-16">#3</Caixa>

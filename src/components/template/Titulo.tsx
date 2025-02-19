@@ -14,7 +14,7 @@ export default function Titulo(props: TituloProps) {
     <div className=" flex flex-col items-start">
       <h1 className={`
         text-4xl font-black
-        ${props.gradiente ? "bg-gradient-to-r from-blue-500 to-green-500 text-transparent bg-clip-text" : ''}
+        ${props.gradiente ? "bg-gradient-to-br from-red-400 via-pink-600 to-purple-900 text-transparent bg-clip-text" : ''}
         `}>
         {props.principal}
         </h1>

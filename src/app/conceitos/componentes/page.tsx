@@ -12,7 +12,7 @@ import React from "react";
 
 export default function Componentes() {
   return (
-    <div className="flex-center h-screen gap-5">
+    <div className="flex-center h-full gap-5">
 
       <button className="btn-info">
         Info

@@ -1,8 +1,7 @@
+import Titulo from "@/components/template/Titulo";
 
 export default function Home() {
   return (
-    <div className="flex justify-center bg-black h-screen items-center text-7xl">
-      Pagina Inicial
-    </div>
+    <Titulo principal="Início" secundario="Registro de estudo - TailwindCSS" gradiente />
   );
 }

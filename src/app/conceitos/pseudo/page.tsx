@@ -9,7 +9,7 @@ export default function Pseudo() {
   return (
     <div
       className="
-    flex justify-center items-center h-screen
+    flex justify-center items-center h-full
     "
     >
       <button className=" p-2 rounded-md

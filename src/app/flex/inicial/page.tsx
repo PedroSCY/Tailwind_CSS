@@ -8,7 +8,7 @@ import Caixa from "@/components/Caixa";
 export default function Flex() {
     return (
         <div className="
-            flex flex-wrap gap-1 h-screen
+            flex flex-wrap gap-1 h-full
             justify-center items-center content-center
         ">
             <Caixa className="w-2/5">#1</Caixa>
