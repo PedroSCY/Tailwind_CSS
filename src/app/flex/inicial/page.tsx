@@ -1,5 +1,10 @@
 import Caixa from "@/components/Caixa";
 
+// justify-center: centraliza os elementos horizontalmente
+// items-center: centraliza os elementos verticalmente
+// content-center: centraliza os elementos no eixo principal
+// O Content-* é usado para alinhar os elementos no eixo principal do flex container. mais usuado com flex-wrap.
+
 export default function Flex() {
     return (
         <div className="
